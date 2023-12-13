@@ -2,6 +2,6 @@
 
 Here are the GitHub repositories related to Lively's project.
 
-| Name Repository | Link                                 |
+| Repository    | Link                                 |
 | ------------- | ---------------------------------------|
 | Example       | [CONTRIBUTING](./Docs/CONTRIBUTING.md) |
