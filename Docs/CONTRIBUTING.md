@@ -33,16 +33,16 @@ gitGraph
 
 Commits messages should always be descriptive. Meaning technical descriptions without personal believes or feelings. Commits should always include any of these prefixes:
 
-| Prefix              | Use case                                                       					   				|
-| ------------------- | ------------------------------------------------------------------------------------------------|
+| Prefix              | Use case                                                       					   		|
+| ------------------- | ----------------------------------------------------------------------------------------------------------------|
 | `build:`            | The commit includes changes that affect the build syste, or external dependencies. 				|
-| `fix:`              | The commit includes fixes for existing bugs.                   					   				|
-| `feat:`             | The commit includes new features to the project.               					   				|
-| `docs:`             | The commit includes documentation update.                      					   				|
-| `ci`				  | The commit includes changes to the Continuous Integration (CI) configuration files and scripts. |
-| `chore`		      | The commit includes a code change that neither fixes a bug nor adds a feature.					|
-| `test`			  | The commit includes adding missing tests or correcting existing tests.
-| `style`			  | The commit includes changes that do not affect the meaning of code.								|
+| `fix:`              | The commit includes fixes for existing bugs.                   					   		|
+| `feat:`             | The commit includes new features to the project.               					   	        |
+| `docs:`             | The commit includes documentation update.                      					   		|
+| `ci`		      | The commit includes changes to the Continuous Integration (CI) configuration files and scripts.                 |
+| `chore`	      | The commit includes a code change that neither fixes a bug nor adds a feature.					|
+| `test`	      | The commit includes adding missing tests or correcting existing tests.                                          |
+| `style`	      | The commit includes changes that do not affect the meaning of code.						|
 
 Commits should only contain changes related to the prefix used, for example: Never commit feat files with docs files.
 
