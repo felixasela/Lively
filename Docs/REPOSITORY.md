@@ -4,4 +4,4 @@ Here are the GitHub repositories related to Lively's project.
 
 | Repository    | Link                                 |
 | ------------- | ---------------------------------------|
-| Example       | [CONTRIBUTING](./Docs/CONTRIBUTING.md) |
+| ImgRestAPI-Lively       | [API/IMG](https://github.com/felixasela/ImgRestAPI-Lively.git) |
