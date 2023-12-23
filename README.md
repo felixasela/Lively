@@ -1,4 +1,4 @@
-# Lively
+# <img src="./Assets/Desing/Icon/LivelyIcon1.svg" alt="Icon" style="width: 20px;" /> Lively
 
 Welcome to Lively. Here you will find our project's documentation.
 
